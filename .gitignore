@@ -1,12 +1,8 @@
-# Ignore everything by default
-*
 
 # Exclude these files and directories from being ignored
-!.gitignore
-!README.md
-!install_script.sh
-!ns3_blockchain.code-workspace
-!protocol/
+ns3/
+rapidjson/
+src/
 
 
 # If you want to ignore certain files or subdirectories inside these, you can specify them
