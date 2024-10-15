@@ -1,10 +1,14 @@
+# Ignore everything by default
+*
 
 # Exclude these files and directories from being ignored
-ns3/
-rapidjson/
-src/
+!.gitignore
+!README.md
+!install_script.sh
+!ns3_blockchain.code-workspace
+!protocol/
 
 
-# If you want to ignore certain files or subdirectories inside these, you can specify them
-# For example, ignore object files and log files inside src/
-
+# Ignore object files and temporary files in the model directory
+protocol/src/applications/model/*.o
+protocol/src/applications/model/.qmake.stash
