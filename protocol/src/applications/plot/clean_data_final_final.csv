@@ -1,0 +1,4 @@
+scenario_type,duration,nb_nodes,malicious,commission,seed,average_total_offers_delay,average_total_demand_delay,txFinality_tmp_normal,count_offers_quantity_ratio,count_demands_quantity_ratio,expired_offers_quantity_ratio,utlisation_ratio,attack_ratio,seller_profit,buyer_profit,nsp_profit,average_price
+Low G - High R,1000,4,1,10,2.0,36.3703,72.61894,2.660978,0.1929818,0.8070181999999999,0.0,0.11145432,0.2773794,4.66612,0.0,0.5666119999999999,5.66612
+RANDOM UNIFORM,1000,4,1,10,2.0,45.61066,45.999340000000004,2.659068,0.4815666,0.5184333999999999,0.0,0.161122,0.29808840000000003,4.903498000000001,0.1904556,0.5903498,5.903498000000001
+High G - Low R,1000,4,1,10,2.0,85.17278,19.42918,2.6541240000000004,0.8070792000000001,0.1929208,0.00491804,0.07609348,0.3190932,3.61625,2.663492,0.461625,4.61625

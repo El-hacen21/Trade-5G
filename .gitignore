@@ -7,7 +7,9 @@
 !install_script.sh
 !ns3_blockchain.code-workspace
 !protocol/
-
+!protocol/**
+!protocol/src/
+!protocol/src/applications/model/
 
 # Ignore object files and temporary files in the model directory
 protocol/src/applications/model/*.o
