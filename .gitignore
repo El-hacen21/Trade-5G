@@ -6,6 +6,7 @@
 !README.md
 !install_script.sh
 !ns3_blockchain.code-workspace
+!protocol/
 
 
 # If you want to ignore certain files or subdirectories inside these, you can specify them
